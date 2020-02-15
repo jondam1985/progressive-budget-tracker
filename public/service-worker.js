@@ -1,7 +1,8 @@
-var CACHE_NAME = 'mo-money-less-money-cache-v1';
+const CACHE_NAME = 'mo-money-less-money-cache-v1';
 
 var urlsToCache = [
   '/',
+  'index.html',
   '/styles.css',
   '/index.js',
   '/db.js',
